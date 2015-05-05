@@ -1,0 +1,1 @@
+Sistema Desarrollador por alumnos de Ing. De Software bajo licencia GPL, open Source, desarrolado en MVC usando lenguajes web como Jquery-Ajax-Php-Javascript-Otros. Base de datos a utilizar Mysql.
